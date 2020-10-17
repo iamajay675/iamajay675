@@ -15,7 +15,7 @@
 
 |**Course / Degree**|**Institute**|**Passing Year**|**CGPA/Percentage**|
 |---|---|---|---|
-|Bachelor of Technology**(Electrical &amp; Electronics)** | St Aloysius Institute of Technology Jabalpur | 2020 | 8.19 |
+|Bachelor of Technology **(Electrical &amp; Electronics)** | St Aloysius Institute of Technology Jabalpur | 2020 | 8.19 |
 | XII | St. Joseph&#39;s School, Rihand Nagar Sonebhadra | 2016 | 75.2 |
 | X | St. Joseph&#39;s School, Rihand Nagar Sonebhadra | 2014 | 7.8 |
 
