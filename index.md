@@ -1,11 +1,12 @@
-![](RackMultipart20201017-4-192sx74_html_c288f075c9d80798.jpg)
-
-# Ajay Kumar Gupta Resume
+---
+layout: default
+title: Ajay Kumar Gupta : Resume
+---
 
 **Mobile : +91 7987029732 | 7080097615,**
 **Email: [iamajay675@gmail.com](mailto:iamajay675@gmail.com)**
 
-**Male, 22**
+*(Male, 22)*
 
 ## Career Objective:
 
